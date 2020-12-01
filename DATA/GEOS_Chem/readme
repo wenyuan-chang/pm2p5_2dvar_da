@@ -1,0 +1,4 @@
+	float avgpmx(lat, lon) ; multi-year mean pm2.5, ug/m3
+		avgpmx:_FillValue = 9.96921e+36f ;
+	float stdpmx(lat, lon) ; standard deviation of the multi-year pm2.5, ug/m3
+		stdpmx:_FillValue = 9.96921e+36f ;
